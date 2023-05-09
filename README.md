@@ -7,4 +7,5 @@
 
 ![image](https://user-images.githubusercontent.com/95114036/232688931-f41afa1d-b83d-4d24-8cc6-fc248d74a7a5.png)
 
-<img width="335" alt="스크린샷 2023-05-09 오후 7 56 00" src="https://github.com/apwierk2451/GifTogetherBannerImage/assets/95114036/35dafcf3-d4e6-4cf5-a129-e5d2803aeca2">
+<img width="329" alt="스크린샷 2023-05-09 오후 8 01 36" src="https://github.com/apwierk2451/GifTogetherBannerImage/assets/95114036/6304797b-b773-4f39-9404-86f8cac22881">
+
